@@ -1,4 +1,4 @@
-1. Share an example of using the command with no arguments. /d
+1. Share an example of using the command with no arguments.
   [user@sahara ~]$ cd
   [user@sahara ~]$ ls
   lecture1
