@@ -1,9 +1,5 @@
 1. Share an example of using the command with no arguments.
-  [user@sahara ~]$ cd
-  [user@sahara ~]$ ls
-  lecture1
-  [user@sahara ~]$ cat
-  ^C
+![Image](1.jpg)
 -The "cd" is used to change direction, but since I didn't command with argument, it will go 
 back to the previous folder, and the direction in Q1 is /Home, so it won't change direction.
 -The "ls" is used to show the names of the files and folders inside the current working 
