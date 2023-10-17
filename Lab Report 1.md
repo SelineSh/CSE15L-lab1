@@ -3,7 +3,7 @@
 
 The directory of question 1 is "/home".
 
--The "cd" is used to change the directory, but since I didn't command with an argument, it will go back to the previous folder, and the direction in Q1 is /Home, so it won't change direction. This isn't an error.
+-The "cd" is used to change the directory, but since I didn't command with an argument, it will go back to the previous folder, and the directory in Q1 is /Home, so it won't change the directory. This isn't an error.
 
 -The "ls" is used to show the names of the files and folders inside the current working directory, so it showed "lecture1". This isn't an error.
 
@@ -15,7 +15,7 @@ The directory of question 1 is "/home".
 
 The directory of question 2 is "/home/lecture1".
 
--"cd lecture1": This isn't an error, it changes the direction to /lecture1.
+-"cd lecture1": This isn't an error. It changes the directory to /home/lecture1.
 
 -"ls messages": This isn't an error because "messages" is a directory, so it showed the names inside the messages directory. 
 
@@ -26,8 +26,8 @@ The directory of question 2 is "/home/lecture1".
 
 The directory of question 2 is "/home/lecture1".
 
--"cd README": This is an error because README isn't a directory; it's a file, so it showed as "Not a directory".
+-"cd README": This is an error because README isn't a directory; it's a file, so it showed as "Not a directory". And the directory is still /home/lecture1.
 
--"ls README": This isn't an error, because README is a file, so it showed the "README".
+-"ls README": This isn't an error because README is a file, so it showed the "README".
 
 -"cat README" This isn't an error, and it showed the contents of the README file.
