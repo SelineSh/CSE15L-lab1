@@ -59,7 +59,7 @@ How do the values of any relevant fields of the class change from this specific 
 When we add "/add-message?s=Hello". The " /add-message" is the path, the "?s=Hello" is the query. Meanwhile, I use ```String[] parameters = url.getQuery()``` to take the query= parameters[] that I entered and use ```url.getQuery().split("=")``` to separate ? and Hello separately. Thus, ```parameters[0] = s```and ```parameters[1] = Hello```. I set up an if loop so that when ```parameters[0] = "s"``` we make num +1 with ``num+=1``. and ```s += num + ". " + parameters[1] + "\n"``` to add num and parameters[1] to the ```String s``` with a newline. So the output is "1. Hello".
 
 
-#Add second single string "How are you".
+Add second single string "How are you".
 ![Image](7.jpg)
 Which methods in your code are called?
 
@@ -91,5 +91,5 @@ Copy the local computer's private key to authorized_keys on the school server by
 
 Part 3
 
-In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn’t know before.
-I've never touched Linux at all but in, in week2 and week3 I learned how to use cd, ls, pwd and so on. At the same time, I also learned how to remote link, which was something I hadn't touched at all before. I also learned a lot about HTTP URLs and URIs. I think this knowledge will be very major for me to take many CSE classes in the future.
+In a couple of sentences, describe something you learned from the lab in week 2 or 3 that you didn’t know before.
+I've never touched Linux at all, in week 2 and week 3 I learned how to use cd, ls, pwd, and so on. At the same time, I also learned how to remote link, which was something I hadn't touched at all before. I also learned a lot about HTTP URLs and URIs. I think this knowledge will be very important for me to take many CSE classes in the future.
