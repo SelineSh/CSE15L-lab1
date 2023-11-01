@@ -78,7 +78,7 @@ Part 2
 The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer)
 ![Image](4.jpg)
 The absolute path to the private key is in 
-```C:\Users\syunn\.ssh\id_rsa.pub```
+```C:\Users\syunn\.ssh\id_rsa```
 
 The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6)
 ![Image](8.jpg)
