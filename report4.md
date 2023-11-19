@@ -18,13 +18,13 @@ Step 7: Edit the code file ListExamples.java to fix the failing test (as a remin
 Enter ```vim ListExamples.java``` + ```<enter>``` to open ListExamples.java
 
 ![Image](4-12.jpg)
-<up><up><up><up><up><up><up>+<left><left><left><left><left><left><left> move to 44,13
+```<up><up><up><up><up><up><up>``` + ```<left><left><left><left><left><left><left>``` move to 44,13
 
 ![Image](4-6.jpg)
 check ```i``` + <backspace> + ```2``` to change ```index1``` to ```index2``` 
 
 ![Image](4-7.jpg)
-<esc> + ```:``` (<shift> + <:>) + w + q to save and exit.
+```<esc>``` + ```:``` (```<shift>``` + ```;```) + w + q to save and exit.
 
 
 Step 8: Run the tests, demonstrating that they now succeed
