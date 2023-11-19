@@ -9,7 +9,7 @@ Enter git clone + link  ```SSH URL``` + ```<enter>``` to clone
 
 Step 6: Run the tests, demonstrating that they fail
 ![Image](4-3.jpg)
-Enter ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` + <enter> and then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` + <enter> to run the tests.
+Enter ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` + ```<enter>``` and then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` + ```<enter>``` to run the tests.
 
 
 
