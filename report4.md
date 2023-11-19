@@ -5,7 +5,7 @@ Keys pressed: ```ssh cs15lfa23gw@ieng6.ucsd.edu <enter>``` to login my ieng6 acc
 
 Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
 ![Image](4-2.jpg)
-Enter git clone + link of ```SSH URL``` + ```<enter>``` to clone
+Keys pressed: ```git clone git@github.com:SelineSh/lab7.git <enter>``` to clone
 
 Step 6: Run the tests, demonstrating that they fail
 ![Image](4-3.jpg)
