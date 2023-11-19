@@ -5,7 +5,7 @@ Enter the ```ssh``` + account + ```<enter>``` to login.
 
 Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
 ![Image](4-2.jpg)
-Enter git clone + link  ```SSH URL``` + ```<enter>``` to clone
+Enter git clone + link of ```SSH URL``` + ```<enter>``` to clone
 
 Step 6: Run the tests, demonstrating that they fail
 ![Image](4-3.jpg)
