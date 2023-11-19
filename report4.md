@@ -40,7 +40,7 @@ Keys pressed: ``` <backspace> 2```
 This is to change ```index1``` to ```index2``` .
 
 ![Image](4-7.jpg)
-```<esc> :(````<shift> + ;````)  w  q ``` 
+```<esc> :(<shift> ;)  w  q ``` 
 
 This is save and exit. ```<esc>```is exit the INSERT mode, ```w```is save, ```q``` is exit.
 
