@@ -68,7 +68,7 @@ Running ```bash test.sh```  to trigger the bug. Here is the screenshot
 A description of what to edit to fix the bug
 
 The error is in ```test.sh``` ```if [[$? -eq 0]]```. There needs to be a space
-after ```[[```, and ```0```. in order to execute condition correctly.
+after ```[[```, and ```0```. So that the condition can be implemented correctly.
 
 Part 2 - Reflection:
 
