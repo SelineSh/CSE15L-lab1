@@ -48,6 +48,7 @@ The file & directory structure needed
 
 Here is the directory structure, where the original files are 
 ```test.sh```, and ```Main.java```. And after run ```bash test.sh``` will create ```Main.class```, and ```output.txt```.
+
 ![Image](5-4.jpg)
 
 The contents of each file before fixing the bug
