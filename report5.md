@@ -73,6 +73,6 @@ after ```[[```, and ```0```. in order to execute condition correctly.
 Part 2 - Reflection:
 
 I learned a lot about ```vim```. Previously I only knew how to use ```wq``` to save exit and ```i``` to modify. 
-This made me not very like to use ```vim```. But then I realized that there are a lot of commands available. 
-I realized that there are a lot of commands that can be used, and that using these commands can make it easier 
+This made me not very like to use ```vim```. But then I realized that there are a lot of commands available that 
+can be used, and that using these commands can make it easier 
 to use ```vim```, which I think will save me a lot of time if I need to use ```vim``` in my future courses.
