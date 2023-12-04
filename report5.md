@@ -11,10 +11,9 @@ is clearly 0, it should print "no error, the code can run". But it ends
 up showing "there has some error". Here is a screenshot of my output.
 ![Image](5-3.jpg)
 
-Is it because I can't just ```$? -eq 0```, I need to set ```$?``` first?
-
-Here is my bash script and I have attached my Main.java in 
-case there is something wrong with my ```Main.java```.
+Is it because I can't just use ```$? -eq 0```, I need to set ```$?``` first?
+Here is my bash script ```test.sh``` and I have attached my Main.java in 
+case there is something wrong with my ```Main.java```:
 
 ![Image](5-1.jpg)
 ![Image](5-2.jpg)
