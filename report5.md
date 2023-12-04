@@ -35,9 +35,7 @@ the problem. I hope it will help you.
 3. Another screenshot/terminal output showing what information the student
  got from trying that, and a clear description of what the bug is.
 
-I found the problem, thanks. I shouldn't have just put ```[[``` followed 
-by ```$? ```, I should have added the space. At the same time, a space
-is needed before ```]]```.
+I found the problem, thanks. I have forgotten to include the space inside the ```[[]]```. This caused an error in my condition.
 
 Here is my new ```test.sh``` , ```output```and ```output.txt```.
 ![Image](5-6.jpg)
